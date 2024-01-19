@@ -1,0 +1,24 @@
+body
+{
+	text-align: center;
+    background-image: linear-gradient(cyan, rgb(59, 230, 59));
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+span
+{
+	font-size: 12px;
+	color: red;
+}
+canvas
+{
+	background: rgb(255, 255, 255);
+	border-radius: 20px;
+    border-style: groove;
+    border-color: aqua;
+}
+#button{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(rgb(241, 244, 19), pink);
+    font-weight: bolder;
+    border-radius: 20px;
+}
